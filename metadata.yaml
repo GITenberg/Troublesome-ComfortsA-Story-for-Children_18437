@@ -1,0 +1,30 @@
+_repo: Troublesome-ComfortsA-Story-for-Children_18437
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glasgow, G. R. (Geraldine Robertson)
+    alias: Glasgow, Geraldine Robertson
+    gutenberg_agent_id: '8027'
+    url: http://www.gutenberg.org/2009/agents/8027
+description: ''
+gutenberg_issued: '2006-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Seashore -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'England -- Juvenile fiction'
+title: 'Troublesome Comforts
+
+  A Story for Children'
+url: http://www.gutenberg.org/ebooks/18437
