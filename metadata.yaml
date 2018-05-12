@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '8027'
     url: http://www.gutenberg.org/2009/agents/8027
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18437#Troublesome-ComfortsA-Story-for-Children
 gutenberg_issued: '2006-05-23'
 gutenberg_type: Text
 identifiers:
